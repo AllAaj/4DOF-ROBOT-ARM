@@ -24,6 +24,4 @@ This repository contains the work done on reviving and upgrading the Tergane 6-D
 - AJRARI Abdellah
 - EL MEJJOUTI Mohamed Taha
 
-## 📜 License
-[Choose a license like MIT or GPL]
 
