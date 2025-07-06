@@ -21,8 +21,8 @@ This repository contains the work done on reviving and upgrading the Tergane 6-D
 - Compare with future 6DOF printed arm (THOR)
 
 ## 👨‍💻 Authors
-- Youssef Ouhmad
-- [add your teammate if any]
+- AJRARI Abdellah
+- EL MEJJOUTI Mohamed Taha
 
 ## 📜 License
 [Choose a license like MIT or GPL]
